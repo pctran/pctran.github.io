@@ -1,0 +1,24 @@
+a:link{
+	color:green;
+}
+
+a:hover{
+	color:red;
+}
+
+h1{
+	font-family: 'Georgia';
+	font-weight: normal;
+
+}
+
+h2{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+}
+
+body {
+	text-align: center;
+    background-color: #f2f2f2;
+font-family: 'Montserrat', sans-serif, 'Times New Roman', serif, 'Arial', sans-serif;
+}
